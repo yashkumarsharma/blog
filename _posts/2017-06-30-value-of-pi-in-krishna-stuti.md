@@ -1,90 +1,36 @@
 ---
 layout: post
 title: 'Value of Pi in Krishna Stuti'
-tags: [hydejack]
+tags: [Pi,katpayadi]
 ---
 
-In this release I've added a "Other Projects" section to the bottom of each project page,
-making it easier for users to navigate through your collection and discover other projects.
-Also, it's now possible to display larger (data-) tables that were previously cut off (especially on mobile devices).
+<pre>
+gopibhagyamadhuvrata-srngishodadhisandhiga॥
+khalajivitakhatava galahaalarasandhar॥
 
-For more on how to add tables, see the new section in [docs/writing][writing].
+गोपीभाग्यमधुव्रात-श्रुग्ङिशोदधिसन्धिग॥
+खलजीवितखाताव गलहालारसंधर॥
+</pre>
 
-Smaller changes include a reduced usage of horizontal lines and a more "semantic" use of `hr` elements.
-Specifically, the semantics of the resume layout have been improved.
-This is best visualized when viewing the page with a text browser like `w3m`.
-For example, before 6.4 the skills section looked like
+<pre>
+1     2   3   4   5   6   7   8   9   0
+ka क kha ख ga ग gha घ nga ङ ca च cha   छ ja ज jha झ nya ञ
+ṭa ट ṭha ठ ḍa ड ḍha ढ ṇa ण ta त tha थ da द dha ध na न
+pa प pha फ ba ब bha भ ma म -   -   -   -   -
+ya य ra र la ल va व śha श sha ष sa स ha ह -   -
+</pre>
 
-~~~
-Skills
+<pre>
+1  2  3  4  5  6  7  8  9  0
+क  ख ग  घ  ङ  च  छ  ज  झ  ञ
+ट  ठ  ड  ढ  ण  त  थ  द  ध  न
+प  फ  ब  भ  म  -  -  -  -  -
+य  र  ल  व  श  ष  स  ह  -  -
+</pre>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Correct Value of pi is 3.141592653589793238462643383279 
 
-Web Development | Level: Master
+314 (half g)
 
-Keywords:
-
-  • HTML
-  • CSS
-  • Javascript
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Compression | Level: Master
-
-Keywords:
-
-  • Mpeg
-  • MP4
-  • GIF
-~~~
-
-(lots of `hr`s, skill level as part of the headline 😕)
-
-Now it looks like
-
-~~~
-Skills
-
-Web Development
-    Level: Master
-    Keywords:
-      □ HTML
-      □ CSS
-      □ Javascript
-Compression
-    Level: Master
-    Keywords:
-      □ Mpeg
-      □ MP4
-      □ GIF
-~~~
-
-(using a `dl`, so that `Level -> "Master"`, `Keywords -> ul`, ...)
-
-There's many more minor changes and fixes that you can read below.
-
-## Patch Notes
-### Minor
-* Added "Other Projects" section to the bottom of the project layout (similar to "Related Posts")
-* Added CSS classes that make viewing larger (data-) tables possible
-* Added section on tables to [docs/writing][writing]
-* Reduced use of `<hr/>` elements, using CSS borders instead.
-* Improved semantic HTML of resume
-* Follow favicon best practices and include example icons
-* Added `no_google_fonts` option
-
-### Design
-* Reduced number of horizontal lines, making many layouts feel less "cluttered" (esp. `blog` layout)
-* Made link hover styles consistent across the board
-* Visually separated `thead` and `tbody` and `tfoot` within tables.
-* Changed RSS and email icons
-* Removed top margin for consecutive headings, e.g. when using `h3` immediately after `h2`.
-
-### Fixes
-* Fixed bug that caused inline math to be moved to the end of a paragraph when dynamically loading a page.
-* Fixed bug that caused layout to break in IE11.
-* Fixed bug that caused the project animation to "jump" when using long project titles.
-* No more empty attributes on `img` tags.
-
-[writing]: https://qwtel.com/hydejack/docs/writing/
+Sources:
+* [Katapayadi](https://en.wikipedia.org/wiki/Katapayadi_system)

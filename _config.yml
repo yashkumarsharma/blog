@@ -13,12 +13,12 @@ url:                 http://litmyth.com
 baseurl:             ''
 
 # A very short description of your page
-tagline:             Excerpts from rich ancient history of India.
+tagline:             Gems of Indian Literature and Mythology
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  India is a magical land with loads of knowledge and wisdom. I will try to document the amazing content which I come across here.
+  Gems of Indian Literature and Mythology
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
