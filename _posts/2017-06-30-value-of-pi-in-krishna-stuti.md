@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'Value of Pi in Krishna Stuti'
-tags: [Pi,katpayadi]
+tags: [Pi,katpayadi,krishna]
 ---
 
 <pre>
 gopibhagyamadhuvrata-srngishodadhisandhiga॥
-khalajivitakhatava galahaalarasandhar॥
+khalajivitakhaatava galahaalaarasandhar॥
 
 गोपीभाग्यमधुव्रात-श्रुग्ङिशोदधिसन्धिग॥
 खलजीवितखाताव गलहालारसंधर॥
@@ -28,9 +28,61 @@ ya य ra र la ल va व śha श sha ष sa स ha ह -   -
 य  र  ल  व  श  ष  स  ह  -  -
 </pre>
 
-Correct Value of pi is 3.141592653589793238462643383279 
 
-314 (half g)
+
+
+Correct Value of pi is 3.14159265 - 
+3589793
+
+238462643383279 
+
+
+
+go - 3
+
+pi - 1
+bha - 4
+gya - 1
+ma - 5
+dhu - 9
+v - ignored as it is without vowel.
+
+ra - 2
+ta - 6
+s - ignored
+r - ignored
+ngi - 5
+============3 missing.
+sho - 5
+
+da - 8
+dhi - 9
+sa - 7
+ndhi - 9
+ga - 3
+
+kha - 2
+la 3
+ji 8
+vi 4
+ta 6
+
+khaa 2
+taa 6 
+va 4
+ga 3
+la 3
+
+haa 8
+laa 3
+ra 2
+san 7
+dha 9
+
+ra 2
+
+A consonant without vowel is to be ignored.
+
 
 Sources:
 * [Katapayadi](https://en.wikipedia.org/wiki/Katapayadi_system)
